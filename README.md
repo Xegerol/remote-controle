@@ -53,7 +53,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/telegram-pc-controller.git
+git clone https://github.com/Xegerol/remote-controle.git
 cd telegram-pc-controller
 ```
 
