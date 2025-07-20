@@ -1,0 +1,10 @@
+# Версия проекта
+VERSION = "2.1.0"
+BUILD_DATE = "2025-07-20"
+FEATURES = [
+    "Telegram PC Controller",
+    "System Tray Integration", 
+    "Auto-startup Management",
+    "Cross-platform Support",
+    "Security Authentication"
+]
